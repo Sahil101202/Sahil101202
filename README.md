@@ -1,7 +1,3 @@
-<h2 align="left">👋 Hi, I'm Sahil – a passionate Data Analyst, Data Scientist, and Developer with expertise in web development, data security, and database management. I love transforming data into actionable insights and crafting efficient, secure applications. My work spans across machine learning, deep learning, and data visualization, leveraging tools like Python, TensorFlow, Pandas, and SQL to solve complex challenges.<br><br>I specialize in building predictive models, web applications with a strong focus on security best practices, and managing databases to ensure optimal performance and data integrity. Whether it's developing robust, secure web applications or working with large datasets, I’m driven by creating impactful solutions.</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil101202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -53,8 +49,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sahil101202/Sahil101202/output/snake.svg" alt="Snake animation" />
 
